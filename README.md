@@ -40,7 +40,7 @@
     <li><a href="#">React</a></li>
     <li><a href="#">CSS</a></li>
   </ul>
-</details>
+</details>df
 
 
 <!-- Features -->
@@ -57,7 +57,7 @@
 <!-- LIVE DEMO -->
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> - [Live Demo ](https://akbarsazish.github.io/my-portfolio)
+> - [Live Demo ](https://alizada11.github.io/my-portfolio)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -74,10 +74,6 @@ In order to run this project you need:
 HTML, CSS, Git and GitHub also Linters
 
 
-
-### Setup
-cd your-desired-folder
-git clone git@github.com:akbarsazish/Portfolio.git
 
 
 
@@ -105,13 +101,9 @@ You can deploy it with your hosting provider of your choise.
 
 ## 👥 Authors <a name="authors"> </a>  
 
-👤 **Ali Akbar Sazish**
+👤 **Jawad Alizada**
 
-- GitHub: [@githubhandle](https://github.com/akbarsazish)
-- Twitter: [@twitterhandle](https://twitter.com/AliAkbarSazish1)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/ali-akbar-sazish/)
-- Wellfound: [Wellfound](https://wellfound.com/u/ali-akbar-sazish)
-
+- GitHub: [@githubhandle](https://github.com/alizada11)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
