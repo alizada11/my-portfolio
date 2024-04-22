@@ -2,7 +2,7 @@
   "name": "my-portfolio",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://github.com/akbarsazish/my-portfolio",
+  "homepage": "https://github.com/alizada11/my-portfolio",
   "type": "module",
   "scripts": {
     "dev": "vite",
